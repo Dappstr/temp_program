@@ -1,0 +1,2 @@
+testing
+I (2141299) cloud: Update device shadow to cloud: device_shadow_document = {"state":{"reported":{"online":true,"bucketTouchTemperature":54.94499}}}
